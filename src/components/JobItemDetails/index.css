@@ -1,0 +1,109 @@
+.job-details-view-con {
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+  max-width: 1180px;
+  padding-top: 20px;
+}
+.job-item {
+  display: flex;
+  flex-direction: column;
+  background-color: #202020;
+  padding: 20px;
+  border-radius: 15px;
+  margin-bottom: 25px;
+  margin-top: 10px;
+}
+.logo-title-location-con {
+  display: flex;
+  flex-direction: column;
+}
+.logo-title-con {
+  display: flex;
+  align-items: center;
+}
+.company-logo {
+  width: 70px;
+  height: 60px;
+  margin-right: 20px;
+}
+.title-rating-con {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.rating-con {
+  display: flex;
+  align-items: center;
+  padding-top: 0;
+}
+.ration-icon {
+  color: #fbbf24;
+  font-size: 18px;
+  margin-right: 10px;
+}
+.location-package-con {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.location-employee-con {
+  display: flex;
+  flex-direction: row;
+}
+
+.loaction-con {
+  display: flex;
+  align-items: center;
+  margin-right: 10px;
+  padding-left: 5px;
+}
+.location-icon {
+  color: #ffffff;
+  font-size: 20px;
+  margin-right: 10px;
+}
+.brief-case-icon {
+  color: #ffffff;
+  font-size: 20px;
+  margin-right: 10px;
+}
+.employee-type-con {
+  display: flex;
+  align-items: center;
+  padding-left: 5px;
+}
+.description-visit-con {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.visit-con {
+  display: flex;
+  align-items: center;
+}
+.hr-line {
+  border-color: #6a95ce;
+  width: 100%;
+}
+.visit-icon {
+  color: #6a95ce;
+  font-size: 15px;
+}
+.similar-job-list {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  padding-left: 0;
+}
+.lifeAtCompany-description-image-con {
+  display: flex;
+  flex-direction: column;
+}
+.lifeAtCompany-img {
+  width: 100%;
+}
+.skill-list-con {
+  display: flex;
+}
